@@ -13,7 +13,7 @@
 #include "crc32c.h"
 #include "superblocks.h"
 
-#include <uuid.h>
+#include <uuid/uuid.h>
 
 #define MAX_MPOOL_NAME_LEN 32
 
